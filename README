@@ -1,3 +1,4 @@
+==============================================================================
 About:
 Ongoing - currently inofficial - German Translation of the OpenChain curriculum
 
@@ -5,6 +6,14 @@ PLEASE NOTE THAT - DURING THE TRANSLATION PHASE - CONTENT MAY BE MISLEADING AND/
 
 For the official OpenChain curriculum, please refer to
 https://github.com/OpenChain-Project/curriculum  
+==============================================================================
+
+Status as of 2018/01/01
+~~~~~~~~~~~~~~~~~~~~~~~
+Finished initial translation of
+* Curriculum slides (folder /slides)
+* Checklists (folder /checklists)
+* Flowcharts (folder /flowcharts)
 
 ==============================================================================
 translated README:

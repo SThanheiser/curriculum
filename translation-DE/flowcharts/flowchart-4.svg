@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_2"
+   data-name="Layer 2"
+   viewBox="0 0 277.06 416.33"
+   version="1.1"
+   sodipodi:docname="flowchart-4.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata6473">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>flowchart-4</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview6471"
+     showgrid="false"
+     inkscape:zoom="2.0368458"
+     inkscape:cx="99.735322"
+     inkscape:cy="222.60068"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs6368">
+    <style
+       id="style6366">.cls-1{fill:#9d9fa2;}.cls-2{font-size:10px;}.cls-2,.cls-6{fill:#fff;font-family:OpenSans-Light, Open Sans;}.cls-3{fill:#636466;}.cls-4{fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:1px;}.cls-5{fill:#231f20;}.cls-6{font-size:6.11px;}</style>
+  </defs>
+  <title
+     id="title6370">flowchart-4</title>
+  <rect
+     class="cls-1"
+     x="1.4"
+     y="216.83"
+     width="99.67"
+     height="44"
+     id="rect6372" />
+  <text
+     class="cls-2"
+     id="text6376"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OpenSans-Light, 'Open Sans';-inkscape-font-specification:'OpenSans-Light, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+     x="48.833939"
+     y="235.46619">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6493"
+       x="48.833939"
+       y="235.46619">Ist der Code</tspan>
+    <tspan
+       sodipodi:role="line"
+       id="tspan6495"
+       x="48.833939"
+       y="247.96619">vollständig?</tspan>
+  </text>
+  <rect
+     class="cls-1"
+     x="89.56"
+     width="99.67"
+     height="44"
+     id="rect6378" />
+  <text
+     class="cls-2"
+     id="text6382"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OpenSans-Light, 'Open Sans';-inkscape-font-specification:'OpenSans-Light, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+     x="139.79732"
+     y="16.672358">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6475"
+       x="139.79732"
+       y="16.672358">Ist ein schriftliches</tspan>
+    <tspan
+       sodipodi:role="line"
+       id="tspan6477"
+       x="139.79732"
+       y="29.172358">Angebot beigefügt?</tspan>
+  </text>
+  <rect
+     class="cls-1"
+     x="128.06"
+     y="288.83"
+     width="56.33"
+     height="44"
+     id="rect6384" />
+  <text
+     class="cls-2"
+     id="text6386"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OpenSans-Light, 'Open Sans';-inkscape-font-specification:'OpenSans-Light, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+     x="157.95528"
+     y="307.06567">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6497"
+       x="157.95528"
+       y="307.06567">vervoll-</tspan>
+    <tspan
+       sodipodi:role="line"
+       id="tspan6499"
+       x="157.95528"
+       y="319.56567">ständigen</tspan>
+  </text>
+  <rect
+     class="cls-1"
+     x="177.4"
+     y="74.5"
+     width="99.67"
+     height="44"
+     id="rect6388" />
+  <text
+     class="cls-2"
+     id="text6392"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OpenSans-Light, 'Open Sans';-inkscape-font-specification:'OpenSans-Light, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+     x="227.59782"
+     y="85.771851">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6483"
+       x="227.59782"
+       y="85.771851">schriftliches</tspan>
+    <tspan
+       sodipodi:role="line"
+       id="tspan6485"
+       x="227.59782"
+       y="98.271851">Angebot</tspan>
+    <tspan
+       sodipodi:role="line"
+       id="tspan6487"
+       x="227.59782"
+       y="110.77185">beifügen</tspan>
+  </text>
+  <rect
+     class="cls-1"
+     x="2.23"
+     y="74.5"
+     width="99.67"
+     height="44"
+     id="rect6394" />
+  <text
+     class="cls-2"
+     id="text6398"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OpenSans-Light, 'Open Sans';-inkscape-font-specification:'OpenSans-Light, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+     x="51.241581"
+     y="92.154266">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6479"
+       x="51.241581"
+       y="92.154266">Ist der Lizenztext</tspan>
+    <tspan
+       sodipodi:role="line"
+       id="tspan6481"
+       x="51.241581"
+       y="104.65427">beigefügt?</tspan>
+  </text>
+  <rect
+     class="cls-1"
+     x="89.56"
+     y="145.33"
+     width="99.67"
+     height="44"
+     id="rect6400" />
+  <text
+     class="cls-2"
+     id="text6404"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OpenSans-Light, 'Open Sans';-inkscape-font-specification:'OpenSans-Light, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+     x="141.47163"
+     y="163.47522">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6489"
+       x="141.47163"
+       y="163.47522">Lizenztext</tspan>
+    <tspan
+       sodipodi:role="line"
+       id="tspan6491"
+       x="141.47163"
+       y="175.97522">beifügen</tspan>
+  </text>
+  <rect
+     class="cls-3"
+     x="1.73"
+     y="360.33"
+     width="85.87"
+     height="56"
+     id="rect6406" />
+  <text
+     class="cls-2"
+     transform="translate(31.31 391.6)"
+     id="text6408"
+     style="-inkscape-font-specification:'OpenSans-Light, Open Sans, Normal';font-family:OpenSans-Light, 'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6501">Fertig!</tspan>
+  </text>
+  <polyline
+     class="cls-4"
+     points="86.4 20 50.73 20 50.73 67.74"
+     id="polyline6410" />
+  <polygon
+     class="cls-5"
+     points="48.24 67.01 50.73 71.33 53.23 67.01 48.24 67.01"
+     id="polygon6412" />
+  <polyline
+     class="cls-4"
+     points="192.73 20 228.4 20 228.4 67.74"
+     id="polyline6414" />
+  <polygon
+     class="cls-5"
+     points="225.9 67.01 228.4 71.33 230.89 67.01 225.9 67.01"
+     id="polygon6416" />
+  <rect
+     class="cls-5"
+     x="41.56"
+     y="36.5"
+     width="18"
+     height="12"
+     id="rect6418" />
+  <text
+     class="cls-6"
+     id="text6420"
+     style="font-size:6.11000013px;font-family:OpenSans-Light, 'Open Sans';fill:#ffffff"
+     x="47.416157"
+     y="43.988895">JA</text>
+  <rect
+     class="cls-5"
+     x="220.33"
+     y="36.5"
+     width="16.13"
+     height="12"
+     id="rect6422" />
+  <text
+     class="cls-6"
+     id="text6424"
+     style="font-size:6.11000013px;font-family:OpenSans-Light, 'Open Sans';fill:#ffffff"
+     x="220.73558"
+     y="44.58963">NEIN</text>
+  <line
+     class="cls-4"
+     x1="174.48"
+     y1="96"
+     x2="108.4"
+     y2="96"
+     id="line6426" />
+  <polygon
+     class="cls-5"
+     points="109.13 93.5 104.81 96 109.13 98.5 109.13 93.5"
+     id="polygon6428" />
+  <line
+     class="cls-4"
+     x1="49.4"
+     y1="121.33"
+     x2="49.4"
+     y2="210.74"
+     id="line6430" />
+  <polygon
+     class="cls-5"
+     points="46.9 210.01 49.4 214.33 51.89 210.01 46.9 210.01"
+     id="polygon6432" />
+  <line
+     class="cls-4"
+     x1="49.4"
+     y1="264.83"
+     x2="49.4"
+     y2="354.24"
+     id="line6434" />
+  <polygon
+     class="cls-5"
+     points="46.9 353.51 49.4 357.83 51.89 353.51 46.9 353.51"
+     id="polygon6436" />
+  <polyline
+     class="cls-4"
+     points="70.4 120.33 70.4 167.83 83.81 167.83"
+     id="polyline6438" />
+  <polygon
+     class="cls-5"
+     points="83.08 170.33 87.4 167.83 83.08 165.34 83.08 170.33"
+     id="polygon6440" />
+  <polyline
+     class="cls-4"
+     points="104.4 241.83 155.9 241.83 155.9 282.24"
+     id="polyline6442" />
+  <polygon
+     class="cls-5"
+     points="153.4 281.51 155.9 285.83 158.39 281.51 153.4 281.51"
+     id="polygon6444" />
+  <polyline
+     class="cls-4"
+     points="126.4 311.33 72.9 311.33 72.9 266.42"
+     id="polyline6446" />
+  <polygon
+     class="cls-5"
+     points="75.39 267.15 72.9 262.83 70.4 267.15 75.39 267.15"
+     id="polygon6448" />
+  <rect
+     class="cls-5"
+     x="40.56"
+     y="161.83"
+     width="18"
+     height="12"
+     id="rect6450" />
+  <text
+     class="cls-6"
+     id="text6452"
+     style="font-size:6.11000013px;font-family:OpenSans-Light, 'Open Sans';fill:#ffffff"
+     x="46.329369"
+     y="169.92642">JA</text>
+  <rect
+     class="cls-5"
+     x="40.56"
+     y="305.33"
+     width="18"
+     height="12"
+     id="rect6454" />
+  <text
+     class="cls-6"
+     id="text6456"
+     style="font-size:6.11000013px;font-family:OpenSans-Light, 'Open Sans';fill:#ffffff"
+     x="46.155788"
+     y="313.60001">JA</text>
+  <rect
+     class="cls-5"
+     x="62.83"
+     y="138.08"
+     width="16.13"
+     height="12"
+     id="rect6458" />
+  <text
+     class="cls-6"
+     id="text6460"
+     style="font-size:6.11000013px;font-family:OpenSans-Light, 'Open Sans';fill:#ffffff"
+     x="63.148792"
+     y="146.44">NEIN</text>
+  <rect
+     class="cls-5"
+     x="147.83"
+     y="256.08"
+     width="16.13"
+     height="12"
+     id="rect6462" />
+  <text
+     class="cls-6"
+     id="text6464"
+     style="font-size:6.11000013px;font-family:OpenSans-Light, 'Open Sans';fill:#ffffff"
+     x="148.32237"
+     y="264.35321">NEIN</text>
+  <polyline
+     class="cls-4"
+     points="141.9 192.33 141.9 232.33 107.49 232.33"
+     id="polyline6466" />
+  <polygon
+     class="cls-5"
+     points="108.22 229.84 103.9 232.33 108.22 234.83 108.22 229.84"
+     id="polygon6468" />
+</svg>
