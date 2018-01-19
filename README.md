@@ -2,6 +2,9 @@
 # About
 **German Translation of the OpenChain curriculum** (currently inofficial)
 
+Contact: moc.resiehnaht 'TA' ed-noitalsnart-mulucirruc
+
+
 For the official OpenChain curriculum, please refer to
 https://github.com/OpenChain-Project/curriculum  
 
@@ -19,7 +22,7 @@ https://github.com/OpenChain-Project/curriculum
 ![CC-0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
 To the extent possible under law, Stefan Thanheiser 
-(with both his GitHub Users 'SThanheiser' (private Guthub user name) and 'FiduciaGAD-SThanheiser' (corporate user name)
+(with both his GitHub Users 'SThanheiser' (private Github user name) and 'FiduciaGAD-SThanheiser' (corporate Github user name)
 has waived all copyright and related or neighboring rights to all work under https://github.com/SThanheiser/curriculum-translation-DE. This work is published from: Germany.
 
 ***
