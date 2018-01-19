@@ -15,6 +15,13 @@ https://github.com/OpenChain-Project/curriculum
     * two guide documents (compliance_practices.docx and engineer_practices.docx within folder /guides)
 * Licensed all translation work under the CC-0
 
+# License
+![CC-0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
+
+To the extent possible under law, Stefan Thanheiser 
+(with both his GitHub Users 'SThanheiser' (private Guthub user name) and 'FiduciaGAD-SThanheiser' (corporate user name)
+has waived all copyright and related or neighboring rights to curriculum-translation-DE. This work is published from: Germany.
+
 ***
 
 # translated original README:
