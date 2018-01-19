@@ -2,7 +2,7 @@
 # About
 **German Translation of the OpenChain curriculum** (currently inofficial)
 
-Contact: moc.resiehnaht 'TA' ed-noitalsnart-mulucirruc
+moc.resiehnaht 'TA' ed-noitalsnart-mulucirruc :(sdrawkcab) tcatnoC
 
 
 For the official OpenChain curriculum, please refer to
