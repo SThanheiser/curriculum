@@ -23,7 +23,7 @@ https://github.com/OpenChain-Project/curriculum
 
 To the extent possible under law, Stefan Thanheiser 
 (with both his GitHub Users 'SThanheiser' (private Github user name) and 'FiduciaGAD-SThanheiser' (corporate Github user name)
-has waived all copyright and related or neighboring rights to all work under https://github.com/SThanheiser/curriculum-translation-DE. This work is published from: Germany.
+has waived all copyright and related or neighboring rights to all his work on https://github.com/SThanheiser/curriculum-translation-DE. This work is published from: Germany.
 
 ***
 
